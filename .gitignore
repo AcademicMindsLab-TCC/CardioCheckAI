@@ -1,0 +1,24 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+.venv/
+venv/
+ENV/
+env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VSCode settings (se usar)
+.vscode/
+
+# Arquivos temporários do sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos de log ou temporários
+*.log
+*.tmp
